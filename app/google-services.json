@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "157160066284",
+    "firebase_url": "https://android-myrestaurants.firebaseio.com",
+    "project_id": "android-myrestaurants",
+    "storage_bucket": "android-myrestaurants.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157160066284:android:dff6c1b29d00d12f",
+        "android_client_info": {
+          "package_name": "com.epicodus.myrestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157160066284-tf252svih34mrefpplqo2bv5beq86lth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epicodus.myrestaurants",
+            "certificate_hash": "0AC434BA4CACCB161360A1A93405C213618BD478"
+          }
+        },
+        {
+          "client_id": "157160066284-filmrm6amt7449bum6i3ib7danjfjjpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epicodus.myrestaurants",
+            "certificate_hash": "92A72898F8F0BF4E0E6F7018589BA4516ACAA3D4"
+          }
+        },
+        {
+          "client_id": "157160066284-p42kqigim9aciabfsj7dr52gg16rp7e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdNJbM-bx_NTnY6Jptcb1VAhKl9qwjQ34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157160066284-p42kqigim9aciabfsj7dr52gg16rp7e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
