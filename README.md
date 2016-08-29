@@ -15,11 +15,10 @@
 > **There may be several bugs that you may encounter. Please report them to me at djroychoudhury@gmail.com**
 
 ## Setup/Install
-
+### Please make sure to have Android Studio installed on your machine. You can download it free here: [Android Studio] (https://developer.android.com/studio/index.html).
 
 ```
   clone repository using Android Studio checkout Project using VCS
-  Add your personal Facebook Developer Account
   run application
   select emulator
     * preferably Nexus 6P API 23
